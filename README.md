@@ -8,6 +8,21 @@ Transaction data and customer data were checked for inconsistencies, missing dat
 
 Screenshots are shown below.
 
+## Word frequency analysis
+![Word frequency](ChipsText.png) 
+
+## Plot of transactions over time
+![Transactions over time](ChipsTime.png) 
+
+## Plot of transactions by pack size
+![Transactions by pack size](ChipsPack.png) 
+
+## Independent t-test
+![Independent t-test](ChipsT.png) 
+
+## Overall brand preference
+![Overall brand preference](ChipsBrand.png) 
+
 ## Findings
 * The number of daily transactions remained relatively stable at between 600 and 750 between July 2018 and July 2019, with a spike in December 2018 near to Christmas.
 * The most frequently purchased pack sizes were between 140g and 170g.
